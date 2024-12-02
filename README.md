@@ -5,7 +5,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sxw111/insurance-api
+   git clone https://github.com/sxw111/insurance-api.git
    cd insurance-api
    ```
 
